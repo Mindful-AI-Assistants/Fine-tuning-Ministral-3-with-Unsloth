@@ -44,19 +44,11 @@
 
 
 
-<br><br>
-
-
-
-> [!NOTE]
->
-> 
-> 
-> 
 
 
 
 <br><br>
+
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)(#license)
 [![Python](https://img.shields.io/badge/Python-≤3.13-blue)](#installation)
@@ -159,34 +151,26 @@ The repo includes:
 * **Docker images**
 * **Export to GGUF / Ollama / vLLM**
 
----
-
-## ✨ Features
 
 
+<br><br>
+
+> [!IMPORTANT]
+>
+>  ###  [**Features**](() <br> 
+> 
+> * Ultra-fast LoRA fine-tuning <br>
+> * FP16 / BF16 / FP8 support <br>
+> *  Vision fine-tuning (VLMs) <br>
+> * RL support (GRPO / DPO / ORPO / KTO) <br>
+> * Ultra-long context (up to 500K tokens) <br>
+> *  Export to **GGUF**, **Ollama**, **safetensors** <br>
+> * CPU, CUDA 11.8 / 12.1, AMD ROCm <br>
+> <br>
+> 
 
 
-
-
--  Ultra-fast LoRA fine-tuning
--  
-- FP16 / BF16 / FP8 support
-- 
--  Ultra-long context (up to 500K tokens)
--  
- Vision fine-tuning (VLMs)
-
-RL support (GRPO / DPO / ORPO / KTO)
-
- Export to **GGUF**, **Ollama**, **safetensors**
-
-CPU, CUDA 11.8 / 12.1, AMD ROCm
-
----
-
-
-
-
+<br><br>
 
 
 # 📥 Installation
