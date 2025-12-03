@@ -282,18 +282,37 @@ Comparação Unsloth vs HuggingFace (FA2):
 }
 ```
 
----
 
-# 📄 License
+<br><br>
 
-Apache-2.0
 
----
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
-Se quiser, Fabi, posso também:
+<br>
 
-✨ transformar isso em **README.md pronto para copiar/colar**
-✨ criar versão com **ícones coloridos + estilização GitHub Pro**
-✨ criar estrutura de repositório inteira (README + notebooks + scripts)
 
-É só pedir.
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br>
+
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
+
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
+
+  
+#
+ 
+##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [Apavhe Licencve.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
