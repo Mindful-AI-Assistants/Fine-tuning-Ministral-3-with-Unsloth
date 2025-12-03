@@ -1,6 +1,6 @@
 <br><br>
 
-
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
 
@@ -8,7 +8,8 @@
 
 <br><br>
 
-This section provides a **clean, copy-ready Portuguese translation** of the core installation and update instructions from the official Unsloth documentation.
+#  Unsloth – Installation & Update (Portuguese Quick Guide)
+
 
 
 <br><br>
