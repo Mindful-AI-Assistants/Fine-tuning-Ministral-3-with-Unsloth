@@ -1,0 +1,22 @@
+
+
+# Example training config (toy) — adjust paths and hyperparams for real runs
+train:
+  epochs: 3
+  batch_size: 8
+  lr: 1e-4
+  seq_len: 64
+
+model:
+  type: minimal
+  d_model: 256
+  n_layers: 2
+  n_head: 4
+  d_ff: 1024
+
+data:
+  dataset: random
+  vocab_size: 50257
+
+output:
+  save_dir: checkpoints/toy
