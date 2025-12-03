@@ -420,17 +420,11 @@ Common issues:
 
 # 💬 Community & Support
 
-* Reddit: r/unsloth
-* Docs: [https://docs.unsloth.ai](https://docs.unsloth.ai)
-* HuggingFace Models: [https://huggingface.co/unsloth](https://huggingface.co/unsloth)
+[-]() Reddit: r/unsloth
+[-]()  Docs: [https://docs.unsloth.ai](https://docs.unsloth.ai)
+[-]() HuggingFace Models: [https://huggingface.co/unsloth](https://huggingface.co/unsloth)
+[-]() [DISCORD]()
 
----
-
-# 📄 License
-
-MIT License (or change to your project license).
-
----
 
 
 
