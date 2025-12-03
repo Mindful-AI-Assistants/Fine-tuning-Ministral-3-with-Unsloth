@@ -5,7 +5,7 @@
 
 <br><br>
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#license)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 [![Python](https://img.shields.io/badge/Python-≤3.13-blue)](#installation)
 [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth)
 
