@@ -4,11 +4,11 @@ accelerate>=0.20.0
 datasets>=2.10.0
 tokenizers>=0.13.3
 sentencepiece>=0.1.98
-safetensors>=0.3.0
+safetensors>=0.3.1
 einops>=0.6.0
 opt_einsum>=3.3.0
 peft>=0.4.0
-bitsandbytes>=0.39.0   # optional, only if you plan 8-bit/4-bit quant
+bitsandbytes>=0.39.0   # optional: only if quantization is intended and supported
 tqdm
 pyyaml
-unsloth>=0.1.0  # adjust to correct package name/version if different
+unsloth>=0.1.0         # confirm package name/version for Unsloth or replace with installation instructions
