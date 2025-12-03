@@ -1,7 +1,18 @@
-
-venv/
+# Virtualenv
 .venv/
+venv/
 __pycache__/
 *.pyc
+
+# Checkpoints & datasets
 checkpoints/
+data/
+*.bin
+*.pt
+*.safetensors
+
+# Notebooks
 .ipynb_checkpoints/
+
+# OS
+.DS_Store
