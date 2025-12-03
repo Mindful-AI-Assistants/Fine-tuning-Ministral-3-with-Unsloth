@@ -6,15 +6,22 @@
 
 ##  Unsloth – Installation & Update (Portuguese Quick Guide)
 
+<br><br>
+
 This section provides a **clean, copy-ready Portuguese translation** of the core installation and update instructions from the official Unsloth documentation.
 
 
-
-> 🔗 Source: [Unsloth – Install & Update](https://docs.unsloth.ai/get-started/install-and-update)
-
-
-
 <br><br>
+
+
+
+> [!NOTE]
+>
+> 
+> * Source: [Unsloth – Install & Update](https://docs.unsloth.ai/get-started/install-and-update) 
+>
+> 
+
 
 
 <br><br>
@@ -25,7 +32,6 @@ This section provides a **clean, copy-ready Portuguese translation** of the core
 
 
 <br><br>
-
 
 
 
