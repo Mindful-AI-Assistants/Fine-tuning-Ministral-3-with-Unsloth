@@ -1,14 +1,44 @@
-<br><br>
+<br>
 
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
 
-## Unsloth – Installation & Update (Portuguese Quick Guide)
+<br><br>
+
+
+# Unsloth Fine-Tuning Suite — Full Repository
+
+
 
 <br><br>
 
-#  Unsloth – Installation & Update (Portuguese Quick Guide)
+
+> [!NOTE]
+>
+> * Complete fine-tuning environment for LLMs using Unsloth, including <br>
+> * Ministral 3, Qwen, Llama, DeepSeek, Gemma, RL, Vision, GGUF export, and production deployment.
+> <br>
+> 
+
+<br><br>
+
+
+## [Includes]():
+
+<br>
+
+[-]() Jupyter notebooks
+
+[-]()  Training, evaluation & inference scripts
+
+[-]()  Dataset examples
+
+🐳 Docker images
+
+[-]() Full Unsloth support
+
+🔥 Ministral 3 Quickstart
 
 
 
@@ -39,8 +69,6 @@
 > [!TIP]
 >
 >
->
->
 > * Fine-tuning & Reinforcement Learning for modern LLMs with **up to 2× faster training** and **70% less VRAM use**.
 >
 
@@ -50,26 +78,350 @@
 <br><br>
 
 
+Perfeito, Fabi — aqui está o **README completo**, ultra profissional, com o **TOC que você aprovou**, estilização GitHub Pro, ícones, seções completas e já integrado com **Ministral 3 + Unsloth + Fine-tuning + Notebooks + Scripts + Repo Structure**.
+
+Pronto para **copiar/colar** em qualquer repositório.
+(Todo em **inglês**, como pediu.)
+
+---
+
+# 🚀 Unsloth Fine-Tuning Suite — Full Repository
+
+> **Complete fine-tuning environment** for LLMs using **Unsloth**, including
+> **Ministral 3**, **Qwen**, **Llama**, **DeepSeek**, **Gemma**, RL, Vision, GGUF export, and production deployment.
+
+Includes:
+
+* 📘 Jupyter notebooks
+* 🛠️ Training, evaluation & inference scripts
+* 🧪 Dataset examples
+* 🐳 Docker images
+* 🧬 Full Unsloth support
+* 🔥 Ministral 3 Quickstart
+
+---
+
+# 📚 Table of Contents
+
+* [🚀 Introduction](#-introduction)
+* [✨ Features](#-features)
+* [📥 Installation](#-installation)
+
+  * [Pip Install](#pip-install)
+  * [Conda Install](#conda-install)
+  * [Docker](#docker)
+  * [Windows Support](#windows-support)
+  * [Google Colab](#google-colab)
+* [🧬 Fine-tuning Guide](#-fine-tuning-guide)
+
+  * [What Model Should I Use?](#what-model-should-i-use)
+  * [Dataset Structure](#dataset-structure)
+  * [LoRA Hyperparameters](#lora-hyperparameters)
+  * [Vision Fine-tuning](#vision-fine-tuning)
+* [🔥 Ministral 3 Quickstart](#-ministral-3-quickstart)
+
+  * [Available Models](#available-models)
+  * [Training Notebook](#training-notebook)
+  * [Inference Examples](#inference-examples)
+* [📘 Notebooks](#-notebooks)
+
+  * [Beginner Notebook](#beginner-notebook)
+  * [Ministral 3 Notebook](#ministral-3-notebook)
+  * [RL / Reasoning Notebooks](#rl--reasoning-notebooks)
+* [🛠️ Scripts](#️-scripts)
+
+  * [Training Script](#training-script)
+  * [Evaluation Script](#evaluation-script)
+  * [Inference Script](#inference-script)
+* [📦 Repository Structure](#-repository-structure)
+* [🖥️ Deployment](#-deployment)
+
+  * [Ollama](#ollama)
+  * [vLLM](#vllm)
+  * [GGUF Export](#gguf-export)
+* [⚠️ Troubleshooting](#️-troubleshooting)
+* [💬 Community & Support](#-community--support)
+* [📄 License](#-license)
+
+---
+
+# 🚀 Introduction
+
+This repository provides a **complete environment** for fine-tuning modern LLMs using **Unsloth**, with support for:
+
+* 🔥 Ministral 3 (all variants)
+* 🦙 Llama 3 / 3.1 / 3.2 / 3.3
+* 🐉 DeepSeek V3 / R1
+* 🌠 Qwen 3 / 2.5 / VL / Coder
+* ✨ Gemma 3
+* 🧩 Phi models
+* 🧠 Reinforcement Learning (DPO, ORPO, GRPO, KTO)
+
+The repo includes:
+
+* **Training notebooks**
+* **Inference pipelines**
+* **Dataset templates**
+* **Docker images**
+* **Export to GGUF / Ollama / vLLM**
+
+---
+
+## ✨ Features
 
 
-##  Table of Contents
 
-* [ Get Started](#-get-started)
-* [Fine-tuning Guide](#-fine-tuning-guide)
-* [ Model Selection](#-model-selection)
-* [ Tutorials](#-tutorials)
-* [FAQ](#-faq)
-* [Installation](#-installation)
-* [ Dataset Guide](#-dataset-guide)
-* [ Requirements](#-requirements)
-* [ Inference & Deployment](#-inference--deployment)
-* [ LoRA Hyperparameters](#-lora-hyperparameters)
-* [⚡ Quickstart — CLI](#-quickstart--cli)
-* [ Mistral 3 Quickstart](#-mistral-3-quickstart)
-* [ Unsloth News](#-unsloth-news)
-* [ Performance Benchmarks](#-performance-benchmarks)
-* [Citation](#-citation)
-* [License](#-license)
+
+
+
+-  Ultra-fast LoRA fine-tuning
+-  
+- FP16 / BF16 / FP8 support
+- 
+-  Ultra-long context (up to 500K tokens)
+-  
+ Vision fine-tuning (VLMs)
+
+RL support (GRPO / DPO / ORPO / KTO)
+
+ Export to **GGUF**, **Ollama**, **safetensors**
+
+CPU, CUDA 11.8 / 12.1, AMD ROCm
+
+---
+
+
+
+
+
+
+# 📥 Installation
+
+## Pip Install
+
+```bash
+pip install unsloth
+```
+
+## Conda Install
+
+```bash
+conda create --name unsloth_env \
+    python=3.11 \
+    pytorch-cuda=12.1 \
+    pytorch cudatoolkit xformers -c pytorch -c nvidia -c xformers -y
+
+conda activate unsloth_env
+pip install unsloth
+```
+
+## Docker
+
+```bash
+docker pull unslothai/unsloth:latest
+```
+
+## Windows Support
+
+Windows works via:
+
+* WSL 2 (recommended)
+* CUDA 12.1 GPUs
+* CPU-only mode
+
+## Google Colab
+
+Free ready-to-use notebooks:
+👉 [https://docs.unsloth.ai/get-started/beginner-start-here](https://docs.unsloth.ai/get-started/beginner-start-here)
+
+---
+
+# 🧬 Fine-tuning Guide
+
+## What Model Should I Use?
+
+* **Instruct models** → dialog, agents, chatbots
+* **Base models** → reasoning, RAG, retrieval, embeddings
+* Small datasets (<3K) → use **Instruct**
+* Large datasets (>20K) → use **Base**
+
+## Dataset Structure
+
+Use the standard Unsloth chat template:
+
+```json
+{
+  "messages": [
+    {"role": "user", "content": "Hello"},
+    {"role": "assistant", "content": "Hi! How can I help?"}
+  ]
+}
+```
+
+## LoRA Hyperparameters
+
+Recommended:
+
+```
+r = 16
+alpha = 32
+dropout = 0.05
+target_modules = ["q_proj", "v_proj"]
+```
+
+## Vision Fine-tuning
+
+Supported for:
+
+* Ministral 3 Vision
+* Gemma Vision
+* Qwen-VL
+
+---
+
+# 🔥 Ministral 3 Quickstart
+
+## Available Models
+
+* **Ministral 3 Small**
+* **Ministral 3 Medium**
+* **Ministral 3 14B** (fits on free Colab GPU)
+
+## Training Notebook
+
+👉 Included in repo under:
+
+```
+notebooks/ministral3_finetune.ipynb
+```
+
+## Example Training Code
+
+```python
+from unsloth import FastLanguageModel
+
+model = FastLanguageModel.from_pretrained(
+    "unsloth/ministral-3-14b",
+    max_seq_length=4096,
+)
+
+model = FastLanguageModel.get_peft_model(model)
+```
+
+---
+
+# 📘 Notebooks
+
+### Beginner Notebook
+
+```
+notebooks/00_beginner_start_here.ipynb
+```
+
+### Ministral 3 Notebook
+
+```
+notebooks/ministral3_finetune.ipynb
+```
+
+### RL / Reasoning Notebooks
+
+```
+notebooks/rl/grpo_ministral3.ipynb
+notebooks/rl/dpo_qwen3.ipynb
+```
+
+---
+
+# 🛠️ Scripts
+
+### Training Script
+
+```
+scripts/train.py
+```
+
+### Evaluation Script
+
+```
+scripts/eval.py
+```
+
+### Inference Script
+
+```
+scripts/infer.py
+```
+
+---
+
+# 📦 Repository Structure
+
+```
+.
+├── README.md
+├── notebooks/
+│   ├── 00_beginner_start_here.ipynb
+│   ├── ministral3_finetune.ipynb
+│   └── rl/
+├── scripts/
+│   ├── train.py
+│   ├── infer.py
+│   └── eval.py
+├── data/
+│   └── samples/
+└── docker/
+    └── Dockerfile
+```
+
+---
+
+# 🖥️ Deployment
+
+## Ollama
+
+```bash
+ollama create mymodel -f ollama_modelfile
+```
+
+## vLLM
+
+```bash
+python -m vllm.entrypoints.api_server --model ./output
+```
+
+## GGUF Export
+
+```
+unsloth convert --to-gguf output/
+```
+
+---
+
+# ⚠️ Troubleshooting
+
+Common issues:
+
+* CUDA mismatch
+* Out of memory → reduce LoRA rank
+* Tokenizer mismatch → always use matching safetensors
+
+---
+
+# 💬 Community & Support
+
+* Reddit: r/unsloth
+* Docs: [https://docs.unsloth.ai](https://docs.unsloth.ai)
+* HuggingFace Models: [https://huggingface.co/unsloth](https://huggingface.co/unsloth)
+
+---
+
+# 📄 License
+
+MIT License (or change to your project license).
+
+---
+
 
 
 
