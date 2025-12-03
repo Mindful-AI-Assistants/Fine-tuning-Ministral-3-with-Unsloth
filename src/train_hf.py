@@ -1,5 +1,3 @@
-
-
 """
 Fine-tuning script using Hugging Face Transformers + Accelerate + PEFT (LoRA).
 This is a well-documented example — adapt hyperparameters and dataset loading to your needs.
