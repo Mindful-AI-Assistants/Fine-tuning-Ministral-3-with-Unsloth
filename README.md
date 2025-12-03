@@ -7,7 +7,7 @@
 <br><br>
 
 
-# [Mistral Unsloth]() 🔥 Fine-Tuning Suite — [Full Repository]()
+# [***Fine-tuning Mistral-3 with Unsloth***]() 🔥  Professional Guide & Starter Scaffold
 
 
 
