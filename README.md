@@ -143,7 +143,7 @@ This repository provides a **complete environment** for **fine-tuning** modern *
 <br><br>
 
 
-## The repo includes:
+## [The repo includes]():
 
 * **Training notebooks**
 * **Inference pipelines**
@@ -173,11 +173,11 @@ This repository provides a **complete environment** for **fine-tuning** modern *
 <br><br>
 
 
-## Installation
+## [Installation]()
 
 <br>
 
-## Pip Install
+### Pip Install
 
 ```bash
 pip install unsloth
@@ -185,7 +185,8 @@ pip install unsloth
 
 <br><br>
 
-## Conda Install
+
+### Conda Install
 
 ```bash
 conda create --name unsloth_env \
