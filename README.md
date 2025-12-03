@@ -9,17 +9,17 @@
 [![Python](https://img.shields.io/badge/Python-≤3.13-blue)](#installation)
 [![Stars](https://img.shields.io/github/stars/unslothai/unsloth?style=social)](https://github.com/unslothai/unsloth)
 
-<br><br>
+<br>\
 
 Fine-tuning & Reinforcement Learning for modern LLMs with **up to 2× faster training** and **70% less VRAM use**.
 
 <br><br>
 
-<br><br># 📚 Table of Contents
+#  Table of Contents
 
-* [🚀 Get Started](#-get-started)
-* [🧬 Fine-tuning Guide](#-fine-tuning-guide)
-* [❓ Model Selection](#-model-selection)
+* [ Get Started](#-get-started)
+* [Fine-tuning Guide](#-fine-tuning-guide)
+* [ Model Selection](#-model-selection)
 * [📘 Tutorials](#-tutorials)
 * [🤔 FAQ](#-faq)
 * [📥 Installation](#-installation)
@@ -28,11 +28,11 @@ Fine-tuning & Reinforcement Learning for modern LLMs with **up to 2× faster tra
 * [🖥 Inference & Deployment](#-inference--deployment)
 * [🧠 LoRA Hyperparameters](#-lora-hyperparameters)
 * [⚡ Quickstart — CLI](#-quickstart--cli)
-* [🌟 Mistral 3 Quickstart](#-mistral-3-quickstart)
-* [🦥 Unsloth News](#-unsloth-news)
-* [🥇 Performance Benchmarks](#-performance-benchmarks)
-* [📜 Citation](#-citation)
-* [📄 License](#-license)
+* [ Mistral 3 Quickstart](#-mistral-3-quickstart)
+* [ Unsloth News](#-unsloth-news)
+* [ Performance Benchmarks](#-performance-benchmarks)
+* [Citation](#-citation)
+* [License](#-license)
 
 
 <br><br>
