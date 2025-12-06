@@ -81,6 +81,8 @@ Includes ready-to-use notebooks, training scripts, dataset examples, Docker, exp
 
 <br>
 
+<!--
+
 * [Introduction](#-introduction)
 * [Features](#-features)
 * [Installation](#-installation)
@@ -121,7 +123,7 @@ Includes ready-to-use notebooks, training scripts, dataset examples, Docker, exp
 * [ Community & Support](#-community--support)
 * [License](#-license)
 
-
+-->
 
 <br><br>
 
