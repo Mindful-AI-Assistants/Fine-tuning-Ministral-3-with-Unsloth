@@ -54,7 +54,7 @@ Inclui notebooks prontos, scripts de treino, exemplos de datasets, Docker, expor
 
 [-]() 🔥 Quickstart do Ministral 3
 
----
+
 
 
 
