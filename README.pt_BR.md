@@ -213,3 +213,20 @@ https://docs.unsloth.ai/get-started/beginner-start-here
 ```
 
 <br><br>
+
+##  [Guia de Fine-tuning]()
+
+
+###  [Qual modelo escolher ?]()
+
+<br><br>
+
+| Tarefa                | Modelo recomendado |
+| --------------------- | ------------------ |
+| Chat / Agentes        | Instruct           |
+| Raciocínio            | Base               |
+| Dataset pequeno (<3k) | Instruct           |
+| Dataset grande (>20k) | Base               |
+
+
+<br><br>
