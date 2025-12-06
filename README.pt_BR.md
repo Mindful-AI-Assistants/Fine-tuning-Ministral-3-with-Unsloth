@@ -229,4 +229,26 @@ https://docs.unsloth.ai/get-started/beginner-start-here
 | [Dataset grande (>20k)]() | Base               |
 
 
+
 <br><br>
+
+
+## [Estrutura do Dataset]()
+
+### [Formato padrão (JSONL):]()
+
+<br>
+
+```json
+{
+  "messages": [
+    {"role": "user", "content": "Olá"},
+    {"role": "assistant", "content": "Oi! Como posso ajudar?"}
+  ]
+}
+```
+]
+
+
+<br><br>
+
