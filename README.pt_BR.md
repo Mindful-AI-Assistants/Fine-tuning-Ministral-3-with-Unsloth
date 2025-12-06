@@ -400,3 +400,13 @@ scripts/infer.py
 
 
 <br><br>
+
+## [Deployment & Export()
+
+<br>
+
+```bash
+ollama create mymodel -f ollama_modelfile
+```
+
+<br><br>
