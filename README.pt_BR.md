@@ -20,6 +20,34 @@ Inclui notebooks prontos, scripts de treino, exemplos de datasets, Docker, expor
 <br><br>
 
 
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#license)
+[![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+[![Python](https://img.shields.io/badge/Python-≤3.13-blue)](#installation)
+
+
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
 ## Indíce
 
 - [Introdução](#introdução)
