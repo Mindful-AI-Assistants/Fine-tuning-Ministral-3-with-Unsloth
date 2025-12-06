@@ -305,3 +305,22 @@ notebooks/ministral3_finetune.ipynb
 ```
 
 <br><br>
+
+## Código de treino (exemplo)()
+
+<br>
+
+
+```python
+from unsloth import FastLanguageModel
+
+model = FastLanguageModel.from_pretrained(
+    "unsloth/ministral-3-14b",
+    max_seq_length=4096,
+)
+
+model = FastLanguageModel.get_peft_model(model)
+```
+
+
+<br><br>
