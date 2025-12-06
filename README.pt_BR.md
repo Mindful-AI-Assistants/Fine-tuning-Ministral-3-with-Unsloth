@@ -57,23 +57,17 @@ Inclui notebooks prontos, scripts de treino, exemplos de datasets, Docker, expor
 
 
 
+> [!TIP]
+>
+> * **Fine-tuning & Reinforcement Learning** para LLMs modernos com **até 2× mais velocidade de treino** e **70% menos uso de VRAM**. <br>
+> * **Ambiente completo de fine-tuning** para LLMs usando **Unsloth**, incluindo <br>
+> * **Ministral 3**, **Qwen**, **Llama**, **DeepSeek**, **Gemma**, RL, Vision, exportação GGUF e deployment em produção. <br>
+>  <br>
+>  
+
+<br><br><br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
 
 ## Indíce
 
