@@ -268,7 +268,7 @@ target_modules = ["q_proj", "v_proj", "k_proj", "o_proj"]
 
 ## [Vision Fine-tuning()
 
-### [Suporte para:()
+### [Suporte para:]()
 
 <br>
 
