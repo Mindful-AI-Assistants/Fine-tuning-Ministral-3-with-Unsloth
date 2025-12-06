@@ -2,7 +2,7 @@
  
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md
 
-<br>
+<br><br>
 
 
 # <p align="center"> Fine-tuning Ministral-3 with [Unsloth]() 🔥 Guia Completo
@@ -21,10 +21,7 @@ Inclui notebooks prontos, scripts de treino, exemplos de datasets, Docker, expor
 
 
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#license)
-[![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-[![Python](https://img.shields.io/badge/Python-≤3.13-blue)](#installation)
-
+### <p align="center"> [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#license) [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants) [![Python](https://img.shields.io/badge/Python-≤3.13-blue)](#installation)
 
 
 <br><br><br>
