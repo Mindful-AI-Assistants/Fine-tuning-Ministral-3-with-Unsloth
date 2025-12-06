@@ -146,7 +146,7 @@ Este repositório consolida um ambiente robusto e padronizado para:
 <br><br>
 
 
-## [[Instalação]()
+## [Instalação]()
 
 ###  **Pip Install**
 
