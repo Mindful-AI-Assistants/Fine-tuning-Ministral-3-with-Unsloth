@@ -7,13 +7,17 @@
 <br><br>
 
 
-# [**Fine-tuning Mistral-3 with Unsloth**]() 🔥  Professional Guide & Starter Scaffold
+# <p align="center"> Fine-tuning Ministral-3 with [Unsloth]() 🔥 Complete Guide
 
+### <p align="center"> Accelerated, optimized, and cost-efficient training using Unsloth + Ministral-3.
 
 <br><br>
 
+This repository provides a complete, fast, and modern environment for fine-tuning, inference, data curation, and model export for Ministral-3, Llama, Qwen, Gemma, DeepSeek, and their variants using the Unsloth ecosystem.
 
-This repository provides a production-oriented, reproducible scaffold to fine-tune Mistral-family causal language models using PyTorch and the Hugging Face ecosystem, with guidance on integrating Unsloth for dataset curation.
+Includes ready-to-use notebooks, training scripts, dataset examples, Docker, export to GGUF/Ollama/vLLM, and support for Reinforcement Learning (GRPO, DPO, ORPO, KTO).
+
+
 
 <br><br><br>
 
@@ -58,8 +62,6 @@ This repository provides a production-oriented, reproducible scaffold to fine-tu
 
 
 <br><br><br>
-
-
 
 
 
