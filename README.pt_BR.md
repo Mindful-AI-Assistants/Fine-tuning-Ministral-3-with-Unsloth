@@ -464,3 +464,9 @@ unsloth convert --to-gguf output/
 
 
 <br><br>
+
+## [Licença]()
+
+<br>
+
+Apache 2.0
