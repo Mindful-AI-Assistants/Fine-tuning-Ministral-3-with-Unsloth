@@ -454,7 +454,7 @@ unsloth convert --to-gguf output/
 
 <br>
 
-* Reddit: r/unsloth
+* [Reddit](r/unsloth)
 
 * [Docs oficiais](https://docs.unsloth.ai)
 
