@@ -546,6 +546,22 @@ pip install unsloth
 
 
 
+
+
+<br><br>
+
+## [Licença]()
+
+<br>
+
+Apache 2.0
+
+
+
+<br><br>
+
+
+
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
 <br>
@@ -571,6 +587,14 @@ pip install unsloth
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
   
+
+  
+#
+ 
+
+
+<br><br>
+
 
   
 #
