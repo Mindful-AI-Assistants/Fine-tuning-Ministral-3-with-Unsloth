@@ -247,8 +247,6 @@ https://docs.unsloth.ai/get-started/beginner-start-here
   ]
 }
 ```
-]
-
 
 <br><br>
 
