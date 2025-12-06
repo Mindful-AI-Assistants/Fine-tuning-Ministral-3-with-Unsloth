@@ -422,7 +422,16 @@ python -m vllm.entrypoints.api_server --model ./output
 ```
 
 
-
 <br><br>
 
+
+## [Exportar para GGUF()
+
 <br>
+
+```bash
+unsloth convert --to-gguf output/
+```
+
+<br<br>
+
