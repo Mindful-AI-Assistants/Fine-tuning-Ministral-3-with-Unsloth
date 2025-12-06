@@ -170,4 +170,14 @@ pip install unsloth
 
 <br><br>
 
+🐳 [Docker]()
+
+<br>
+
+```bash
+docker pull unslothai/unsloth:latest
+```
+
+<br><br>
+
 
