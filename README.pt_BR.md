@@ -280,3 +280,18 @@ target_modules = ["q_proj", "v_proj", "k_proj", "o_proj"]
 
 
 <br><br>
+
+
+## 🔥 [Ministral-3 Quickstart]()
+
+###  [Exemplos de modelos suportados]()
+
+<br>
+
+* Ministral-3 Small
+
+* Ministral-3 Medium
+
+* Ministral-3 14B (cabe no Colab Free com QLoRA)
+
+<br><br>
