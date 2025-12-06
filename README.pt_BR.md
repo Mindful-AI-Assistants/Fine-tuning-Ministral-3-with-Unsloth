@@ -250,3 +250,20 @@ https://docs.unsloth.ai/get-started/beginner-start-here
 
 <br><br>
 
+## [Hiperparâmetros LoRA]()
+
+### [Recomendação inicial:]()
+
+<br>
+
+```ìni
+r = 16
+alpha = 32
+dropout = 0.05
+target_modules = ["q_proj", "v_proj", "k_proj", "o_proj"]
+```
+
+<br><br>
+
+
+
