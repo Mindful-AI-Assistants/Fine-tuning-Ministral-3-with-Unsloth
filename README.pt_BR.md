@@ -194,3 +194,22 @@ docker pull unslothai/unsloth:latest
 <br><br>
 
 
+##  [Google Colab]()
+
+<br>
+
+Notebooks oficiais:
+https://docs.unsloth.ai/get-started/beginner-start-here
+
+
+<br>
+
+[Instalação rápida:]()
+
+<br>
+
+```bash
+!pip install unsloth
+```
+
+<br><br>
