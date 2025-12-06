@@ -520,7 +520,7 @@ pip install unsloth
 
 ## [Official Unsloth Notebooks]() (Tabela Completa)
 
-Aqui está uma tabela pronta para README com **todos os notebooks oficiais do Unsloth**, incluindo fine-tuning, QLoRA, visão, RL, Ministal 3 e modelos específicos:
+
 
 | Notebook                             | Descrição                                                | Link                                                                                                                                                                                                             |
 | ------------------------------------ | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
