@@ -170,7 +170,7 @@ pip install unsloth
 
 <br><br>
 
-🐳 [Docker]()
+### 🐳 [Docker]()
 
 <br>
 
@@ -180,4 +180,15 @@ docker pull unslothai/unsloth:latest
 
 <br><br>
 
+### [Suporte Windows()
 
+<br>
+
+✔ Via WSL2 (recomendado)
+
+✔ CUDA 12.1
+
+✔ Apenas CPU
+
+
+<br><br>
