@@ -114,6 +114,9 @@ Includes ready-to-use notebooks, training scripts, dataset examples, Docker, exp
 <br><br>
 
 
+<!--
+
+
 ## [Introduction]()
 
 This repository provides a **complete environment** for **fine-tuning** modern **LLMs** using **Unsloth**, with support for:
@@ -572,4 +575,4 @@ pip install unsloth
   
 #
  
-##### <p align="center">Copyright 2025 Mindful-AI-Assistants. Code released under the  [Apavhe Licencve.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
+##### <p align="center"> Code released under the  [Apavhe Licencve.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
