@@ -324,3 +324,17 @@ model = FastLanguageModel.get_peft_model(model)
 
 
 <br><br>
+
+## [Notebooks]()
+
+<br>
+
+| [Notebook]()                | [Descrição]()                     | [Link]()                                   |
+| ----------------------- | ----------------------------- | -------------------------------------- |
+| [Beginner Start Here]()     | Introdução e primeiros passos | notebooks/00_beginner_start_here.ipynb |
+| [Ministral-3 Fine-tuning]() | Treino completo               | notebooks/ministral3_finetune.ipynb    |
+| [GRPO RL]()                 | Raciocínio com RL             | notebooks/rl/grpo_ministral3.ipynb     |
+| [DPO Qwen]()                | RL DPO                        | notebooks/rl/dpo_qwen3.ipynb           |
+
+
+<br>
