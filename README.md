@@ -552,6 +552,14 @@ pip install unsloth
 
 ## [Licença]()
 
+ 
+-->
+
+
+<br><br>
+
+## [Licença]()
+
 <br>
 
 Apache 2.0
@@ -581,15 +589,12 @@ Apache 2.0
 
 <!--
 <p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
 
 <br>
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
   
-
-
--->
-
 
   
 #
@@ -598,8 +603,6 @@ Apache 2.0
 
 <br><br>
 
+##### <p align="center"> Code released under the  [Apache Licencve.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
 
-  
-#
- 
-##### <p align="center"> Code released under the  [Apavhe Licencve.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
+
