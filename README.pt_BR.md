@@ -146,6 +146,14 @@ Este repositório consolida um ambiente robusto e padronizado para:
 <br><br>
 
 
+## [[Instalação]()
 
+## 🧩 **Pip Install**
 
+<br>
 
+```bash
+pip install unsloth
+```
+
+<br><br>
