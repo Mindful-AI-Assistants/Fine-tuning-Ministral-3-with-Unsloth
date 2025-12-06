@@ -17,7 +17,8 @@ Este repositório fornece um ambiente completo, rápido e moderno para fine-tuni
 Inclui notebooks prontos, scripts de treino, exemplos de datasets, Docker, exportação para GGUF/Ollama/vLLM e suporte a Reinforcement Learning (GRPO, DPO, ORPO, KTO).
 
 
-<br><br>
+
+<br><br><br>
 
 
 
