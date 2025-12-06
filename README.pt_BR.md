@@ -29,6 +29,35 @@ Inclui notebooks prontos, scripts de treino, exemplos de datasets, Docker, expor
 
 
 
+> [!NOTE]
+>
+> [-]()  Ambiente completo de fine-tuning para LLMs usando Unsloth, incluindo <br>
+> [-]()  Ministral 3, Qwen, Llama, DeepSeek, Gemma, RL, Vision, exportação GGUF e deployment em produção. <br>
+> [-]()  Fonte: [Unsloth – Instalação & Atualização](https://docs.unsloth.ai/get-started/install-and-update)  <br> <br>
+
+<br><br>
+
+
+## [Inclui]():
+
+<br>
+
+[-]() Jupyter notebooks
+
+[-]() Scripts de treinamento, avaliação e inferência
+
+[-]() Exemplos de datasets
+
+[-]() 🐳 Imagens Docker
+
+[-]() Suporte completo ao Unsloth
+
+[-]() 🔥 Quickstart do Ministral 3
+
+---
+
+
+
 
 
 
