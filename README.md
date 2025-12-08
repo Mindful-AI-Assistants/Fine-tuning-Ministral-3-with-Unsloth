@@ -275,12 +275,179 @@ Official notebooks:
 <br><br>
 
 
+Aqui está o **mesmo conteúdo traduzido para inglês**, mantendo **Markdown, tabelas e código intactos**, apenas traduzindo os textos:
+
+---
+
+<br><br>
+
+### [Windows Support]()
+
+<br>
+
+✔ Via WSL2 (recommended)
+
+✔ CUDA 12.1
+
+✔ CPU-only
+
+<br><br>
+
+## [Google Colab]()
+
+<br>
+
+Official notebooks:
+[https://docs.unsloth.ai/get-started/beginner-start-here](https://docs.unsloth.ai/get-started/beginner-start-here)
+
+<br>
+
+[Quick install:]()
+
+<br>
+
+```bash
+!pip install unsloth
+```
+
+<br><br>
+
+## [Fine-tuning Guide]()
+
+### [Which model should I choose?]()
+
+<br>
+
+| [Task]()                 | Recommended model |
+| ------------------------ | ----------------- |
+| [Chat / Agents]()        | Instruct          |
+| [Reasoning]()            | Base              |
+| [Small dataset (<3k)]()  | Instruct          |
+| [Large dataset (>20k)]() | Base              |
+
+<br><br>
+
+## [Dataset Structure]()
+
+### [Default format (JSONL):]()
+
+<br>
+
+```json
+{
+  "messages": [
+    {"role": "user", "content": "Hello"},
+    {"role": "assistant", "content": "Hi! How can I help?"}
+  ]
+}
+```
+
+
+<br><br>
+
+## [LoRA Hyperparameters]()
+
+<br>
+
+### [Initial recommendation:]()
+
+<br>
+
+```ini
+r = 16
+alpha = 32
+dropout = 0.05
+target_modules = ["q_proj", "v_proj", "k_proj", "o_proj"]
+```
+
+
+<br><br>
+
+## [Vision Fine-tuning]()
+
+<br>
+
+### [Supports:]()
+
+<br>
+
+* Ministral-3 Vision
+* Qwen-VL
+* Gemma Vision
+
+
+<br><br>
+
+
+## 🔥 [Ministral-3 Quickstart]()
+
+<br>
+
+### [Examples of supported models]()
+
+<br>
+
+* Ministral-3 Small
+* Ministral-3 Medium
+* Ministral-3 14B (fits in Colab Free with QLoRA)
+
+
+
+<br><br>
+
+## [Official repo notebook]()
+
+<br>
+
+
+```bash
+notebooks/ministral3_finetune.ipynb
+```
+
+
+<br><br>
+
+## Training code (example)()
+
+<br>
+
+```python
+from unsloth import FastLanguageModel
+
+model = FastLanguageModel.from_pretrained(
+    "unsloth/ministral-3-14b",
+    max_seq_length=4096,
+)
+
+model = FastLanguageModel.get_peft_model(model)
+```
+
+
+
+<br><br>
+
+## [Notebooks]()
+
+<br>
+
+| [Notebook]()                | [Description]()              | [Link]()                               |
+| --------------------------- | ---------------------------- | -------------------------------------- |
+| [Beginner Start Here]()     | Introduction and first steps | notebooks/00_beginner_start_here.ipynb |
+| [Ministral-3 Fine-tuning]() | Full training                | notebooks/ministral3_finetune.ipynb    |
+| [GRPO RL]()                 | Reasoning with RL            | notebooks/rl/grpo_ministral3.ipynb     |
+| [DPO Qwen]()                | RL DPO                       | notebooks/rl/dpo_qwen3.ipynb           |
+
+
+
+
+
+
+
+
 
 
 
 <!--
-
-<br><br>
 
 
 
@@ -305,11 +472,6 @@ Official notebooks:
 
 
 
-<br><br>
-
-
-
- 
 -->
 
 
@@ -317,7 +479,6 @@ Official notebooks:
 
 ## [Licença]()
 
-<br>
 
 Apache 2.0
 
