@@ -156,6 +156,41 @@ This repository consolidates a robust and standardized environment for:
 <br><br>
 
 
+## [Installation]()
+
+###  [Pip Install]()
+
+<br>
+
+```bash
+pip install unsloth
+```
+
+<br><br>
+
+<br><br>
+
+### 🐍 [Conda Install]()
+
+<br>
+
+```bash
+conda create --name unsloth_env python=3.11 -y
+conda activate unsloth_env
+pip install unsloth
+```
+
+<br><br>
+
+### 🐳 [Docker]()
+
+<br>
+
+```bash
+docker pull unslothai/unsloth:latest
+```
+
+<br><br>
 
 
 
