@@ -441,17 +441,13 @@ model = FastLanguageModel.get_peft_model(model)
 
 
 
-
-
-
-
-
-
-<!--
-
+<br><br>
 
 
 ## [Official Unsloth Notebooks]() (Tabela Completa)
+
+
+<br>
 
 
 
@@ -472,13 +468,13 @@ model = FastLanguageModel.get_peft_model(model)
 
 
 
--->
+
 
 
 <br><br>
 
-## [Licença]()
 
+## [Licença]()
 
 Apache 2.0
 
