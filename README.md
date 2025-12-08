@@ -113,8 +113,12 @@ Includes ready-to-use notebooks, training scripts, dataset examples, Docker, exp
 
 ## [Introduction]()
 
+<br>
+
 
 This repository consolidates a robust and standardized environment for:
+
+<br>
 
 * **Efficient fine-tuning with LoRA/QLoRA**
 * **Reinforcement Learning (GRPO, DPO, ORPO, KTO)**
@@ -127,6 +131,8 @@ This repository consolidates a robust and standardized environment for:
 <br><br>
 
 ## [Full support for:]()
+
+<br>
 
 * **Ministral-3 (all sizes)**
 * Llama 3.x
@@ -159,6 +165,8 @@ This repository consolidates a robust and standardized environment for:
 
 
 ## [Installation]()
+
+<br>
 
 ### ⚡️ [Pip Install]()
 
@@ -204,7 +212,11 @@ docker pull unslothai/unsloth:latest
 
 ✔ CPU-only
 
+
+
 <br><br>
+
+
 
 ## [Google Colab]()
 
