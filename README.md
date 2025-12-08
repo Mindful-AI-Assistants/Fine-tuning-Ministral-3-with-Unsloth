@@ -189,20 +189,71 @@ pip install unsloth
 docker pull unslothai/unsloth:latest
 ```
 
+
 <br><br>
 
+### [Windows Support]()
 
+<br>
 
+✔ Via WSL2 (recommended)
 
+✔ CUDA 12.1
 
+✔ CPU-only
 
+<br><br>
 
+## [Google Colab]()
 
+<br>
 
+Official notebooks:
+[https://docs.unsloth.ai/get-started/beginner-start-here](https://docs.unsloth.ai/get-started/beginner-start-here)
 
+<br>
 
+[Quick install:]()
 
+<br>
 
+```bash
+!pip install unsloth
+```
+
+<br><br>
+
+## [Fine-tuning Guide]()
+
+### [Which model should I choose?]()
+
+<br>
+
+| [Task]()                 | [Recommended model]() |
+| ------------------------ | ----------------- |
+| [Chat / Agents]()        | Instruct          |
+| [Reasoning]()            | Base              |
+| [Small dataset (<3k)]()  | Instruct          |
+| [Large dataset (>20k)]() | Base              |
+
+<br><br>
+
+## [Dataset Structure]()
+
+### [Default format (JSONL):]()
+
+<br>
+
+```json
+{
+  "messages": [
+    {"role": "user", "content": "Hello"},
+    {"role": "assistant", "content": "Hi! How can I help?"}
+  ]
+}
+```
+
+<br><br>
 
 
 
